@@ -1,1 +1,1 @@
-# decision-tree-and-decision-ist
+# decision-tree-and-decision-list
